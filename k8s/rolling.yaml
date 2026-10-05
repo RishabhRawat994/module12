@@ -37,10 +37,10 @@ spec:
         env:
 
         - name: VERSION
-          value: "v1"
+          value: "v2"
 
         - name: FEATURE_ENABLED
-          value: "false"
+          value: "true"
 
         ports:
         - containerPort: 3000
